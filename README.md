@@ -11,6 +11,8 @@ Neste último ano, tenho procurado me atualizar quanto as principais tecnologias
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+<code><img width="10%" src=" https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 
@@ -18,6 +20,10 @@ Neste último ano, tenho procurado me atualizar quanto as principais tecnologias
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
+
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">  
 </p>
