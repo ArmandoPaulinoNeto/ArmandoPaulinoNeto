@@ -7,7 +7,6 @@ Neste último ano, tenho procurado me atualizar quanto as principais tecnologias
 
 ### :computer: Programming languages and tools: 
 <p>
-#### Language:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
