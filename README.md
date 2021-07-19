@@ -34,4 +34,7 @@ Neste último ano, tenho procurado me atualizar quanto as principais tecnologias
 #### Deploy:
  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoPaulinoNeto&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoPaulinoNeto&hide=TeX&layout=compact)
 </p>
