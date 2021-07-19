@@ -5,21 +5,31 @@ Estou matriculado no 6° período do curso de Bacharelado em Sistemas de Informa
 
 Neste último ano, tenho procurado me atualizar quanto as principais tecnologias usadas para uma codificação mais limpa, manutenível e mais dinâmica. Neste ínterim, tenho participado de cursos e reunido seus respectivos certificados; no intuito de tornar-me um desenvolvedor qualificado e focado em colocar em pratica meus conhecimentos em favor da empresa a que venha integrar, visando sempre agregar-lhe valor e evoluir profissionalmente.
 
-#### :computer: Programming languages and tools: 
+### :computer: Programming languages and tools: 
 <p>
+#### Language:
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+
+#### Framework: 
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br/>
+  
+#### Database:
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 <br/>
+#### Code Version:
+  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
