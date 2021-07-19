@@ -13,14 +13,13 @@ Neste último ano, tenho procurado me atualizar quanto as principais tecnologias
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-
+<br/>
 #### Framework: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-<br/>
-  
+<br/>  
 #### Database:
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
