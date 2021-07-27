@@ -1,9 +1,16 @@
 ### Hi there 👋
 Olá! Meu nome é Armando Paulino.
 
-Estou matriculado no 6° período do curso de Bacharelado em Sistemas de Informação na Faculdade Escritor Osman da Costa Lins em Vitória de Santo Antão, Pernambuco. Sou Técnico em Informática desde 2013. Tenho um grande fascínio pela área de Programação, em especial o desenvolvimento de algoritmos em linguagem Java, assim como pelo Kotlin e o Desenvolvimento Mobile.
+👨‍💻 Profissional em migração para a área de Desenvolvimento Back-End, com ênfase em Desenvolvimento Java, Kotlin e Mobile, com diversos cursos de capacitação em linguagens, tecnologias e melhores práticas da área, e habilitação para atuação no levantamento de requisitos técnicos de clientes, proposição de soluções tecnológicas e inovadoras.
 
-Neste último ano, tenho procurado me atualizar quanto as principais tecnologias usadas para uma codificação mais limpa, manutenível e mais dinâmica. Neste ínterim, tenho participado de cursos e reunido seus respectivos certificados; no intuito de tornar-me um desenvolvedor qualificado e focado em colocar em pratica meus conhecimentos em favor da empresa a que venha integrar, visando sempre agregar-lhe valor e evoluir profissionalmente.
+- Construção de relacionamento com equipes técnicas e operacionais, com alinhamento estratégico para cumprimento de metas, com foco em qualidade de serviços e de entregáveis.
+
+🏆 Desenvolvimento e atualização constante em ferramentas, metodologias e tecnologias do mercado.
+
+📍 Aplicação de conhecimento em projeto para atendimento de clientes do ramo de Turismo, com obtenção de ótimo resultados e comprovação de habilidades desenvolvidas nos cursos.
+
+📱 (81) 99501-5362
+📧 armandopaulinosilvaneto@gmail.com
 
 ### :computer: Programming languages and tools:
 <br/>
