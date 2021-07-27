@@ -10,6 +10,7 @@ Olá! Meu nome é Armando Paulino.
 📍 Aplicação de conhecimento em projeto para atendimento de clientes do ramo de Turismo, com obtenção de ótimo resultados e comprovação de habilidades desenvolvidas nos cursos.
 
 📱 (81) 99501-5362
+
 📧 armandopaulinosilvaneto@gmail.com
 
 ### :computer: Programming languages and tools:
