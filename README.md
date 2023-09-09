@@ -1,7 +1,7 @@
 ### Hi there 👋
 Olá! Meu nome é Armando Paulino.
 
-👨‍💻 Profissional em migração para a área de Desenvolvimento Back-End, com ênfase em Desenvolvimento Java, Kotlin e Mobile, com diversos cursos de capacitação em linguagens, tecnologias e melhores práticas da área, e habilitação para atuação no levantamento de requisitos técnicos de clientes, proposição de soluções tecnológicas e inovadoras.
+👨‍💻 Profissional em migração para a área de Desenvolvimento Back-End, com diversos cursos de capacitação em linguagens, tecnologias e melhores práticas da área, e habilitação para atuação no levantamento de requisitos técnicos de clientes, proposição de soluções tecnológicas e inovadoras.
 
 - Construção de relacionamento com equipes técnicas e operacionais, com alinhamento estratégico para cumprimento de metas, com foco em qualidade de serviços e de entregáveis.
 
