@@ -2,14 +2,14 @@
 
 ---
 
-🎯 Career Objective
+#### 🎯 Career Objective
 
 Junior Backend Developer with a degree in Information Systems and internship experience in backend development (API updates, bug fixes). Skilled in NestJS, TypeORM, Docker, Java, and Flutter, with strong interest in backend and mobile development. Eager to contribute to scalable, high-quality software solutions.
 
 
 ---
 
-🎓 Education
+#### 🎓 Education
 
 Bachelor in Information Systems
 Escritor Osman da Costa Lins College – Vitória de Santo Antão, Pernambuco
@@ -18,7 +18,7 @@ Graduated: 2023
 
 ---
 
-💼 Experience
+#### 💼 Experience
 
 Backend Developer Intern | Marques Consult
 📍 Limoeiro, Pernambuco, Brazil | Jun 2022 – Dec 2022 (7 months)
@@ -35,7 +35,7 @@ Applied best practices in backend development using Java and SQL.
 
 ---
 
-🛠️ Technical Skills
+#### 🛠️ Technical Skills
 
 Languages: JavaScript (TypeScript), Java, Dart (Flutter)
 
@@ -51,9 +51,7 @@ Other: Agile/Scrum basics, API design & integration
 
 ---
 
-📱 Projects (personal/academic)
-
-(You can add 1–2 short examples. Example below, edit as needed)
+#### 📱 Projects (personal/academic)
 
 LingoLoop App (in progress) – Language learning application built with NestJS backend and Flutter frontend.
 
@@ -63,7 +61,7 @@ Task Manager API – RESTful API for task management, built with NestJS, TypeORM
 
 ---
 
-🌍 Languages
+#### 🌍 Languages
 
 Portuguese – Native
 
