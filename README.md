@@ -1,18 +1,87 @@
 ### Hi there 👋
-Olá! Meu nome é Armando Paulino.
 
-👨‍💻 Profissional em migração para a área de Desenvolvimento Back-End, com diversos cursos de capacitação em linguagens, tecnologias e melhores práticas da área, e habilitação para atuação no levantamento de requisitos técnicos de clientes, proposição de soluções tecnológicas e inovadoras.
+---
 
-- Construção de relacionamento com equipes técnicas e operacionais, com alinhamento estratégico para cumprimento de metas, com foco em qualidade de serviços e de entregáveis.
+🎯 Career Objective
 
-🏆 Desenvolvimento e atualização constante em ferramentas, metodologias e tecnologias do mercado.
+Junior Backend Developer with a degree in Information Systems and internship experience in backend development (API updates, bug fixes). Skilled in NestJS, TypeORM, Docker, Java, and Flutter, with strong interest in backend and mobile development. Eager to contribute to scalable, high-quality software solutions.
 
-📍 Aplicação de conhecimento em projeto para atendimento de clientes do ramo de Turismo, com obtenção de ótimo resultados e comprovação de habilidades desenvolvidas nos cursos.
 
-📱 (81) 99501-5362
+---
 
-📧 armandopaulinosilvaneto@gmail.com
+🎓 Education
 
+Bachelor in Information Systems
+Escritor Osman da Costa Lins College – Vitória de Santo Antão, Pernambuco
+Graduated: 2023
+
+
+---
+
+💼 Experience
+
+Backend Developer Intern | Marques Consult
+📍 Limoeiro, Pernambuco, Brazil | Jun 2022 – Dec 2022 (7 months)
+
+Updated and maintained REST APIs for internal systems.
+
+Performed bug fixes to improve system stability.
+
+Collaborated with team members to optimize backend processes.
+
+Applied best practices in backend development using Java and SQL.
+
+
+
+---
+
+🛠️ Technical Skills
+
+Languages: JavaScript (TypeScript), Java, Dart (Flutter)
+
+Frameworks: NestJS, TypeORM, Express, Flutter
+
+Databases: PostgreSQL, MySQL, MongoDB
+
+Tools & Platforms: Git, Docker, Postman, REST APIs
+
+Other: Agile/Scrum basics, API design & integration
+
+
+
+---
+
+📱 Projects (personal/academic)
+
+(You can add 1–2 short examples. Example below, edit as needed)
+
+LingoLoop App (in progress) – Language learning application built with NestJS backend and Flutter frontend.
+
+Task Manager API – RESTful API for task management, built with NestJS, TypeORM, and PostgreSQL.
+
+
+
+---
+
+🌍 Languages
+
+Portuguese – Native
+
+English – Intermediate
+
+
+
+---
+
+Armando Paulino da Silva Neto
+
+📍 Limoeiro, Pernambuco, Brazil
+📱 +55 (81) 99501-5362 | ✉️ armandopaulinosilvaneto@gmail.com
+🔗 linkedin.com/in/armandopsneto
+
+
+
+---
 ### :computer: Programming languages and tools:
 <br/>
 <p>
