@@ -76,7 +76,7 @@ Armando Paulino da Silva Neto
 📍 Limoeiro, Pernambuco, Brazil</br>
 📱 +55 (81) 99501-5362</br>
 ✉️ armandopaulinosilvaneto@gmail.com</br>
-🔗 https//:www.linkedin.com/in/armandopsneto
+🔗 www.linkedin.com/in/armandopsneto
 
 
 
